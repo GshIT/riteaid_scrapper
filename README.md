@@ -1,1 +1,1 @@
-# riteaid_scrapper
+# In VPN folder ADD Credentials of torguard, or add your own openvpn files and credentials. credentials must be in a credentials file first row user second row password

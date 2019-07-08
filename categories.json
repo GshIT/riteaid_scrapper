@@ -4833,5 +4833,275 @@
         "url": "https://www.riteaid.com/shop/online-deals/household/food-snacks-candy/snacks",
         "name": "Snacks",
         "path": "online-deals/household/food-snacks-candy/snacks"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/food-snacks-candy/food/cereal",
+        "name": "Breakfast & Cereal",
+        "path": "online-deals/household/food-snacks-candy/food/cereal"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/food-snacks-candy/food/coffee-tea",
+        "name": "Coffee & Tea",
+        "path": "online-deals/household/food-snacks-candy/food/coffee-tea"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/food-snacks-candy/food/pantry",
+        "name": "Pantry",
+        "path": "online-deals/household/food-snacks-candy/food/pantry"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/food-snacks-candy/candy/chocolate",
+        "name": "Chocolate Candy, Cookies, and Bars",
+        "path": "online-deals/household/food-snacks-candy/candy/chocolate"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/food-snacks-candy/candy/non-chocolate",
+        "name": "Non-Chocolate",
+        "path": "online-deals/household/food-snacks-candy/candy/non-chocolate"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/clothing-accessories/socks-hosiery",
+        "name": "Socks & Hosiery",
+        "path": "online-deals/household/clothing-accessories/socks-hosiery"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/car-travel/car-accessories",
+        "name": "Car Accessories",
+        "path": "online-deals/household/car-travel/car-accessories"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/car-travel/travel-essentials",
+        "name": "Travel Essentials",
+        "path": "online-deals/household/car-travel/travel-essentials"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/car-travel/car-accessories/air-fresheners",
+        "name": "Air Fresheners",
+        "path": "online-deals/household/car-travel/car-accessories/air-fresheners"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/candles-air-fresheners/air-fresheners",
+        "name": "Air Fresheners",
+        "path": "online-deals/household/candles-air-fresheners/air-fresheners"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/candles-air-fresheners/candles",
+        "name": "Candles",
+        "path": "online-deals/household/candles-air-fresheners/candles"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/as-seen-on-tv-1/beauty-personal-care",
+        "name": "Beauty & Personal Care",
+        "path": "online-deals/household/as-seen-on-tv-1/beauty-personal-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/as-seen-on-tv-1/for-the-home",
+        "name": "For the Home",
+        "path": "online-deals/household/as-seen-on-tv-1/for-the-home"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/appliances/travel",
+        "name": "Travel",
+        "path": "online-deals/household/appliances/travel"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/baby-kids-mom",
+        "name": "Baby, Kids & Mom",
+        "path": "online-deals/health-wellness-center/baby-kids-mom"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/diet-fitness",
+        "name": "Diet & Fitness",
+        "path": "online-deals/health-wellness-center/diet-fitness"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/natural-remedies",
+        "name": "Natural Remedies",
+        "path": "online-deals/health-wellness-center/natural-remedies"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/vitamins-supplements",
+        "name": "Vitamins & Supplements",
+        "path": "online-deals/health-wellness-center/vitamins-supplements"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/vitamins-supplements/multivitamins",
+        "name": "Multivitamins",
+        "path": "online-deals/health-wellness-center/vitamins-supplements/multivitamins"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/vitamins-supplements/supplements",
+        "name": "Supplements",
+        "path": "online-deals/health-wellness-center/vitamins-supplements/supplements"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/vitamins-supplements/vitamins-a-k",
+        "name": "Vitamins A-K",
+        "path": "online-deals/health-wellness-center/vitamins-supplements/vitamins-a-k"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/natural-remedies/herbs-a-z",
+        "name": "Herbs A-Z",
+        "path": "online-deals/health-wellness-center/natural-remedies/herbs-a-z"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/natural-remedies/homeopathic-remedies",
+        "name": "Homeopathic Remedies",
+        "path": "online-deals/health-wellness-center/natural-remedies/homeopathic-remedies"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/diet-fitness/sports-nutrition",
+        "name": "Sports Nutrition",
+        "path": "online-deals/health-wellness-center/diet-fitness/sports-nutrition"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/diet-fitness/weight-loss",
+        "name": "Weight Loss",
+        "path": "online-deals/health-wellness-center/diet-fitness/weight-loss"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/baby-kids-mom/health-home",
+        "name": "Health & Home",
+        "path": "online-deals/health-wellness-center/baby-kids-mom/health-home"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center/baby-kids-mom/maternity",
+        "name": "Maternity",
+        "path": "online-deals/health-wellness-center/baby-kids-mom/maternity"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/batteries-power-sources",
+        "name": "Batteries & Power Sources",
+        "path": "online-deals/electronics-office/batteries-power-sources"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/electronics",
+        "name": "Electronics",
+        "path": "online-deals/electronics-office/electronics"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/movies-tv",
+        "name": "Movies & TV",
+        "path": "online-deals/electronics-office/movies-tv"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies",
+        "name": "Office & School Supplies",
+        "path": "online-deals/electronics-office/office-school-supplies"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/calendars-planners",
+        "name": "Calendars & Planners",
+        "path": "online-deals/electronics-office/office-school-supplies/calendars-planners"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/crayons-markers-highlighters",
+        "name": "Crayons, Markers & Highlighters",
+        "path": "online-deals/electronics-office/office-school-supplies/crayons-markers-highlighters"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/office-supplies",
+        "name": "Office Supplies",
+        "path": "online-deals/electronics-office/office-school-supplies/office-supplies"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/pencils-pens",
+        "name": "Pencils & Pens",
+        "path": "online-deals/electronics-office/office-school-supplies/pencils-pens"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/rulers-scissors-protractors-compasses",
+        "name": "Rulers, Scissors, Protractors & Compasses",
+        "path": "online-deals/electronics-office/office-school-supplies/rulers-scissors-protractors-compasses"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/tape-glue-staplers",
+        "name": "Tape, Glue & Staplers",
+        "path": "online-deals/electronics-office/office-school-supplies/tape-glue-staplers"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/tape-glue-staplers/glue",
+        "name": "Glue",
+        "path": "online-deals/electronics-office/office-school-supplies/tape-glue-staplers/glue"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/tape-glue-staplers/tape",
+        "name": "Tape",
+        "path": "online-deals/electronics-office/office-school-supplies/tape-glue-staplers/tape"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/pencils-pens/pencils",
+        "name": "Pencils",
+        "path": "online-deals/electronics-office/office-school-supplies/pencils-pens/pencils"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/pencils-pens/pens",
+        "name": "Pens",
+        "path": "online-deals/electronics-office/office-school-supplies/pencils-pens/pens"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/office-supplies/envelopes-shipping-supplies",
+        "name": "Envelopes & Shipping Supplies",
+        "path": "online-deals/electronics-office/office-school-supplies/office-supplies/envelopes-shipping-supplies"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/office-supplies/index-cards-cases",
+        "name": "Index Cards & Cases",
+        "path": "online-deals/electronics-office/office-school-supplies/office-supplies/index-cards-cases"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/office-supplies/more-supplies",
+        "name": "More Supplies",
+        "path": "online-deals/electronics-office/office-school-supplies/office-supplies/more-supplies"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/office-school-supplies/office-supplies/self-stick-notes-tabs",
+        "name": "Self-Stick Notes & Tabs",
+        "path": "online-deals/electronics-office/office-school-supplies/office-supplies/self-stick-notes-tabs"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/electronics/audio",
+        "name": "Audio",
+        "path": "online-deals/electronics-office/electronics/audio"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/electronics/cell-phones-accessories",
+        "name": "Cell Phones & Accessories",
+        "path": "online-deals/electronics-office/electronics/cell-phones-accessories"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/electronics/cell-phones-accessories/earbuds-bluetooth-headsets",
+        "name": "Earbuds & Bluetooth Headsets",
+        "path": "online-deals/electronics-office/electronics/cell-phones-accessories/earbuds-bluetooth-headsets"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/electronics/audio/docks-speakers",
+        "name": "Docks & Speakers",
+        "path": "online-deals/electronics-office/electronics/audio/docks-speakers"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office/electronics/audio/earbuds-headphones",
+        "name": "Earbuds & Headphones",
+        "path": "online-deals/electronics-office/electronics/audio/earbuds-headphones"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/diet-fitness/diet-weight-loss-supplements",
+        "name": "Diet & Weight Loss Supplements",
+        "path": "online-deals/diet-fitness/diet-weight-loss-supplements"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/diet-fitness/diet-drink-supplements-diet-aids",
+        "name": "Diet Drink Supplements & Diet Aids",
+        "path": "online-deals/diet-fitness/diet-drink-supplements-diet-aids"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/diet-fitness/energy-drinks-nutrition-bars",
+        "name": "Energy Drinks & Nutrition Bars",
+        "path": "online-deals/diet-fitness/energy-drinks-nutrition-bars"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/diet-fitness/sports-nutrition-protein-drinks",
+        "name": "Sports Nutrition & Protein Drinks",
+        "path": "online-deals/diet-fitness/sports-nutrition-protein-drinks"
     }
 ]
