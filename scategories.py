@@ -3128,5 +3128,455 @@
         "url": "https://www.riteaid.com/shop/online-deals/personal-care/hair-care/hair-color",
         "name": "Hair Color",
         "path": "online-deals/personal-care/hair-care/hair-color"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/hair-care/hair-scalp-treatment",
+        "name": "Hair & Scalp Treatment",
+        "path": "online-deals/personal-care/hair-care/hair-scalp-treatment"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/hair-care/appliances/straightners-flat-irons",
+        "name": "Straightners & Flat Irons",
+        "path": "online-deals/personal-care/hair-care/appliances/straightners-flat-irons"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/foot-care/odor-control",
+        "name": "Odor Control",
+        "path": "online-deals/personal-care/foot-care/odor-control"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/foot-care/lotions-creams-powders",
+        "name": "Lotions, Creams & Powders",
+        "path": "online-deals/personal-care/foot-care/lotions-creams-powders"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/foot-care/inserts-insoles-cushions",
+        "name": "Inserts, Insoles & Cushions",
+        "path": "online-deals/personal-care/foot-care/inserts-insoles-cushions"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/foot-care/blisters-bunions-corns-calluses-treatment",
+        "name": "Blisters, Bunions, Corns & Calluses Treatment",
+        "path": "online-deals/personal-care/foot-care/blisters-bunions-corns-calluses-treatment"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/foot-care/antifungal-athlete-s-foot",
+        "name": "Antifungal & Athlete's Foot",
+        "path": "online-deals/personal-care/foot-care/antifungal-athlete-s-foot"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/feminine-care/yeast-infection-treatments",
+        "name": "Yeast Infection Treatments",
+        "path": "online-deals/personal-care/feminine-care/yeast-infection-treatments"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/feminine-care/tampons",
+        "name": "Tampons",
+        "path": "online-deals/personal-care/feminine-care/tampons"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/feminine-care/pads-liners",
+        "name": "Pads & Liners",
+        "path": "online-deals/personal-care/feminine-care/pads-liners"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/feminine-care/cleansing",
+        "name": "Cleansing",
+        "path": "online-deals/personal-care/feminine-care/cleansing"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/ear-eye-care/eye-care/treatment-first-aid",
+        "name": "Treatment & First Aid",
+        "path": "online-deals/personal-care/ear-eye-care/eye-care/treatment-first-aid"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/ear-eye-care/eye-care/eye-drops-1",
+        "name": "Eye Drops",
+        "path": "online-deals/personal-care/ear-eye-care/eye-care/eye-drops-1"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/bath-body/sunscreen-tanning",
+        "name": "Sunscreen & Tanning",
+        "path": "online-deals/personal-care/bath-body/sunscreen-tanning"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/bath-body/lotions-oils",
+        "name": "Lotions & Oils",
+        "path": "online-deals/personal-care/bath-body/lotions-oils"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/bath-body/hand-soap-sanitizers",
+        "name": "Hand Soap & Sanitizers",
+        "path": "online-deals/personal-care/bath-body/hand-soap-sanitizers"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/bath-body/exfoliants-scrubs",
+        "name": "Exfoliants & Scrubs",
+        "path": "online-deals/personal-care/bath-body/exfoliants-scrubs"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/bath-body/cleansing-cloths-wipes",
+        "name": "Cleansing Cloths & Wipes",
+        "path": "online-deals/personal-care/bath-body/cleansing-cloths-wipes"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/bath-body/bodywash-soap",
+        "name": "Bodywash & Soap",
+        "path": "online-deals/personal-care/bath-body/bodywash-soap"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/bath-body/body-sprays",
+        "name": "Body Sprays",
+        "path": "online-deals/personal-care/bath-body/body-sprays"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/bath-body/bath-bubbles-salts",
+        "name": "Bath Bubbles & Salts",
+        "path": "online-deals/personal-care/bath-body/bath-bubbles-salts"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/antiperspirants-deodorants",
+        "name": "Antiperspirants & Deodorants",
+        "path": "online-deals/personal-care/antiperspirants-deodorants"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/sleep-snoring-aids/sleep-supplements",
+        "name": "Sleep Supplements",
+        "path": "online-deals/medicine-health/sleep-snoring-aids/sleep-supplements"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/sleep-snoring-aids/sleep-aids-medicine",
+        "name": "Sleep Aids & Medicine",
+        "path": "online-deals/medicine-health/sleep-snoring-aids/sleep-aids-medicine"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/sleep-snoring-aids/energy-alert-aids",
+        "name": "Energy & Alert Aids",
+        "path": "online-deals/medicine-health/sleep-snoring-aids/energy-alert-aids"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/pain-fever-relief/rubs-ointments",
+        "name": "Rubs & Ointments",
+        "path": "online-deals/medicine-health/pain-fever-relief/rubs-ointments"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/pain-fever-relief/non-aspirin",
+        "name": "Non-Aspirin",
+        "path": "online-deals/medicine-health/pain-fever-relief/non-aspirin"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/pain-fever-relief/hot-cold-therapy",
+        "name": "Hot & Cold Therapy",
+        "path": "online-deals/medicine-health/pain-fever-relief/hot-cold-therapy"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/pain-fever-relief/aspirin",
+        "name": "Aspirin",
+        "path": "online-deals/medicine-health/pain-fever-relief/aspirin"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/oral-care/toothpicks-floss",
+        "name": "Toothpicks & Floss",
+        "path": "online-deals/medicine-health/oral-care/toothpicks-floss"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/oral-care/toothpaste",
+        "name": "Toothpaste",
+        "path": "online-deals/medicine-health/oral-care/toothpaste"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/oral-care/toothbrushes",
+        "name": "Toothbrushes",
+        "path": "online-deals/medicine-health/oral-care/toothbrushes"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/oral-care/tooth-cold-sore-relief",
+        "name": "Tooth & Cold Sore Relief",
+        "path": "online-deals/medicine-health/oral-care/tooth-cold-sore-relief"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/oral-care/teeth-whitening",
+        "name": "Teeth Whitening",
+        "path": "online-deals/medicine-health/oral-care/teeth-whitening"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/oral-care/mouthwash-rinse",
+        "name": "Mouthwash & Rinse",
+        "path": "online-deals/medicine-health/oral-care/mouthwash-rinse"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/oral-care/denture-care/adhesives",
+        "name": "Adhesives",
+        "path": "online-deals/medicine-health/oral-care/denture-care/adhesives"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/oral-care/breath-freshners",
+        "name": "Breath Freshners",
+        "path": "online-deals/medicine-health/oral-care/breath-freshners"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/incontinence-aids/protective-underwear",
+        "name": "Protective Underwear",
+        "path": "online-deals/medicine-health/incontinence-aids/protective-underwear"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/incontinence-aids/pads-liners",
+        "name": "Pads & Liners",
+        "path": "online-deals/medicine-health/incontinence-aids/pads-liners"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/incontinence-aids/cleansing-cloths-wipes",
+        "name": "Cleansing Cloths & Wipes",
+        "path": "online-deals/medicine-health/incontinence-aids/cleansing-cloths-wipes"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/home-test-kits/pregnancy-test",
+        "name": "Pregnancy Test",
+        "path": "online-deals/medicine-health/home-test-kits/pregnancy-test"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/home-test-kits/fertility-ovulation",
+        "name": "Fertility & Ovulation",
+        "path": "online-deals/medicine-health/home-test-kits/fertility-ovulation"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/home-health-care/incontinence-aids/pads-liners",
+        "name": "Pads & Liners",
+        "path": "online-deals/medicine-health/home-health-care/incontinence-aids/pads-liners"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/home-health-care/incontinence-aids/cleansing-cloths-wipes",
+        "name": "Cleansing Cloths & Wipes",
+        "path": "online-deals/medicine-health/home-health-care/incontinence-aids/cleansing-cloths-wipes"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/home-health-care/braces-supports",
+        "name": "Braces & Supports",
+        "path": "online-deals/medicine-health/home-health-care/braces-supports"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/heart-health",
+        "name": "Heart Health",
+        "path": "online-deals/medicine-health/heart-health"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/foot-care/odor-control",
+        "name": "Odor Control",
+        "path": "online-deals/medicine-health/foot-care/odor-control"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/foot-care/inserts-insoles-cushions",
+        "name": "Inserts, Insoles & Cushions",
+        "path": "online-deals/medicine-health/foot-care/inserts-insoles-cushions"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/foot-care/blisters-bunions-corns-calluses-treatment",
+        "name": "Blisters, Bunions, Corns & Calluses Treatment",
+        "path": "online-deals/medicine-health/foot-care/blisters-bunions-corns-calluses-treatment"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/first-aid/wart-remover",
+        "name": "Wart Remover",
+        "path": "online-deals/medicine-health/first-aid/wart-remover"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/first-aid/tape-gauze-pads-1",
+        "name": "Tape, Gauze & Pads",
+        "path": "online-deals/medicine-health/first-aid/tape-gauze-pads-1"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/first-aid/itch-rash-treatment",
+        "name": "Itch & Rash Treatment",
+        "path": "online-deals/medicine-health/first-aid/itch-rash-treatment"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/first-aid/first-aid-kits",
+        "name": "First Aid Kits",
+        "path": "online-deals/medicine-health/first-aid/first-aid-kits"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/first-aid/burn-wound-care",
+        "name": "Burn & Wound Care",
+        "path": "online-deals/medicine-health/first-aid/burn-wound-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/first-aid/braces-support-wraps",
+        "name": "Braces & Support Wraps",
+        "path": "online-deals/medicine-health/first-aid/braces-support-wraps"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/first-aid/bandages",
+        "name": "Bandages",
+        "path": "online-deals/medicine-health/first-aid/bandages"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/first-aid/antifungal",
+        "name": "Antifungal",
+        "path": "online-deals/medicine-health/first-aid/antifungal"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/first-aid/antibiotics-antiseptics",
+        "name": "Antibiotics & Antiseptics",
+        "path": "online-deals/medicine-health/first-aid/antibiotics-antiseptics"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/family-planning/pregnancy-test",
+        "name": "Pregnancy Test",
+        "path": "online-deals/medicine-health/family-planning/pregnancy-test"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/family-planning/fertility-ovulation/tests-kits",
+        "name": "Tests & Kits",
+        "path": "online-deals/medicine-health/family-planning/fertility-ovulation/tests-kits"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/ear-eye-care/eye-care/eyeglass-cleaners-accessories",
+        "name": "Eyeglass Cleaners & Accessories",
+        "path": "online-deals/medicine-health/ear-eye-care/eye-care/eyeglass-cleaners-accessories"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/ear-eye-care/eye-care/eye-drops",
+        "name": "Eye Drops",
+        "path": "online-deals/medicine-health/ear-eye-care/eye-care/eye-drops"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/ear-eye-care/ear-care/cotton-balls-swabs",
+        "name": "Cotton Balls & Swabs",
+        "path": "online-deals/medicine-health/ear-eye-care/ear-care/cotton-balls-swabs"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/digestive-health-nausea/nausea-motion-sickness",
+        "name": "Nausea & Motion Sickness",
+        "path": "online-deals/medicine-health/digestive-health-nausea/nausea-motion-sickness"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/digestive-health-nausea/lactose-intolerance",
+        "name": "Lactose Intolerance",
+        "path": "online-deals/medicine-health/digestive-health-nausea/lactose-intolerance"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/digestive-health-nausea/gas-relief",
+        "name": "Gas Relief",
+        "path": "online-deals/medicine-health/digestive-health-nausea/gas-relief"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/digestive-health-nausea/fiber-laxatives-stool-softeners/stool-softener",
+        "name": "Stool Softener",
+        "path": "online-deals/medicine-health/digestive-health-nausea/fiber-laxatives-stool-softeners/stool-softener"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/digestive-health-nausea/fiber-laxatives-stool-softeners/laxatives",
+        "name": "Laxatives",
+        "path": "online-deals/medicine-health/digestive-health-nausea/fiber-laxatives-stool-softeners/laxatives"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/digestive-health-nausea/fiber-laxatives-stool-softeners/fiber",
+        "name": "Fiber",
+        "path": "online-deals/medicine-health/digestive-health-nausea/fiber-laxatives-stool-softeners/fiber"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/digestive-health-nausea/digestive-supplements-prebiotics-probiotics/digestive-supplements",
+        "name": "Digestive Supplements",
+        "path": "online-deals/medicine-health/digestive-health-nausea/digestive-supplements-prebiotics-probiotics/digestive-supplements"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/digestive-health-nausea/anti-diarrhea",
+        "name": "Anti-Diarrhea",
+        "path": "online-deals/medicine-health/digestive-health-nausea/anti-diarrhea"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/digestive-health-nausea/antacid",
+        "name": "Antacid",
+        "path": "online-deals/medicine-health/digestive-health-nausea/antacid"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/cough-cold-flu/cough-cold-flu-medicine",
+        "name": "Cough, Cold & Flu Medicine",
+        "path": "online-deals/medicine-health/cough-cold-flu/cough-cold-flu-medicine"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/cough-cold-flu/cough-sore-throat",
+        "name": "Cough & Sore Throat Medicine",
+        "path": "online-deals/medicine-health/cough-cold-flu/cough-sore-throat"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health/allergy-sinus/allergy-sinus-medicine",
+        "name": "Allergy & Sinus Medicine",
+        "path": "online-deals/medicine-health/allergy-sinus/allergy-sinus-medicine"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/tape-glue-staplers/tape",
+        "name": "Tape",
+        "path": "online-deals/household/school-office-supplies/tape-glue-staplers/tape"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/tape-glue-staplers/glue",
+        "name": "Glue",
+        "path": "online-deals/household/school-office-supplies/tape-glue-staplers/glue"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/rulers-scissors-protractors-compasses",
+        "name": "Rulers, Scissors, Protractors & Compasses",
+        "path": "online-deals/household/school-office-supplies/rulers-scissors-protractors-compasses"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/pencils-pens/pens",
+        "name": "Pens",
+        "path": "online-deals/household/school-office-supplies/pencils-pens/pens"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/pencils-pens/pencils",
+        "name": "Pencils",
+        "path": "online-deals/household/school-office-supplies/pencils-pens/pencils"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/office-supplies/self-stick-notes-tabs",
+        "name": "Self-Stick Notes & Tabs",
+        "path": "online-deals/household/school-office-supplies/office-supplies/self-stick-notes-tabs"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/office-supplies/more-supplies",
+        "name": "More Supplies",
+        "path": "online-deals/household/school-office-supplies/office-supplies/more-supplies"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/office-supplies/index-cards-cases",
+        "name": "Index Cards & Cases",
+        "path": "online-deals/household/school-office-supplies/office-supplies/index-cards-cases"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/office-supplies/envelopes-shipping-supplies",
+        "name": "Envelopes & Shipping Supplies",
+        "path": "online-deals/household/school-office-supplies/office-supplies/envelopes-shipping-supplies"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/crayons-markers-highlighters",
+        "name": "Crayons, Markers & Highlighters",
+        "path": "online-deals/household/school-office-supplies/crayons-markers-highlighters"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/calendars-planners",
+        "name": "Calendars & Planners",
+        "path": "online-deals/household/school-office-supplies/calendars-planners"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/school-office-supplies/calculators",
+        "name": "Calculators",
+        "path": "online-deals/household/school-office-supplies/calculators"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/paper-plastic/paper-towels-napkins",
+        "name": "Paper Towels & Napkins",
+        "path": "online-deals/household/paper-plastic/paper-towels-napkins"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/paper-plastic/facial-tissue",
+        "name": "Facial Tissue",
+        "path": "online-deals/household/paper-plastic/facial-tissue"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/paper-plastic/cups-plates-utensils",
+        "name": "Cups, Plates & Utensils",
+        "path": "online-deals/household/paper-plastic/cups-plates-utensils"
     }
 ]
