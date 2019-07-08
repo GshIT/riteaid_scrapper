@@ -3578,5 +3578,80 @@
         "url": "https://www.riteaid.com/shop/online-deals/household/paper-plastic/cups-plates-utensils",
         "name": "Cups, Plates & Utensils",
         "path": "online-deals/household/paper-plastic/cups-plates-utensils"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/paper-plastic/bath-tissue",
+        "name": "Bath Tissue",
+        "path": "online-deals/household/paper-plastic/bath-tissue"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/laundry-cleaning/stain-removers",
+        "name": "Stain Removers",
+        "path": "online-deals/household/laundry-cleaning/stain-removers"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/laundry-cleaning/laundry-detergent",
+        "name": "Laundry Detergent",
+        "path": "online-deals/household/laundry-cleaning/laundry-detergent"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/laundry-cleaning/fabric-softener",
+        "name": "Fabric Softener",
+        "path": "online-deals/household/laundry-cleaning/fabric-softener"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/laundry-cleaning/cleaning-supplies",
+        "name": "Cleaning Supplies",
+        "path": "online-deals/household/laundry-cleaning/cleaning-supplies"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/laundry-cleaning/cleaning-equiptment",
+        "name": "Cleaning Equipment",
+        "path": "online-deals/household/laundry-cleaning/cleaning-equiptment"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/laundry-cleaning/bleach-bleach-alternatives",
+        "name": "Bleach & Bleach Alternatives",
+        "path": "online-deals/household/laundry-cleaning/bleach-bleach-alternatives"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/kitchen/cups-plates-utensils",
+        "name": "Cups, Plates & Utensils",
+        "path": "online-deals/household/kitchen/cups-plates-utensils"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/kitchen/coffee-makers-appliances",
+        "name": "Coffee Makers & Appliances",
+        "path": "online-deals/household/kitchen/coffee-makers-appliances"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/kitchen/cleaning-supplies",
+        "name": "Cleaning Supplies",
+        "path": "online-deals/household/kitchen/cleaning-supplies"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/home-essentials/tools-hardware/picture-hanging",
+        "name": "Picture Hanging",
+        "path": "online-deals/household/home-essentials/tools-hardware/picture-hanging"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/home-essentials/more-home-essentials",
+        "name": "More Home Essentials",
+        "path": "online-deals/household/home-essentials/more-home-essentials"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/home-essentials/glue-tape-staplers/tape",
+        "name": "Tape",
+        "path": "online-deals/household/home-essentials/glue-tape-staplers/tape"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/home-essentials/glue-tape-staplers/glue",
+        "name": "Glue",
+        "path": "online-deals/household/home-essentials/glue-tape-staplers/glue"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household/food-snacks-candy/snacks",
+        "name": "Snacks",
+        "path": "online-deals/household/food-snacks-candy/snacks"
     }
 ]

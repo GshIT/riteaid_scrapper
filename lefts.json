@@ -55,28 +55,18 @@
         "path": "online-deals/household/clothing-accessories"
     },
     {
-        "url": "https://www.riteaid.com/shop/online-deals/household/food-snacks-candy",
-        "name": "Food, Snacks & Candy",
-        "path": "online-deals/household/food-snacks-candy"
+        "url": "https://www.riteaid.com/shop/online-deals/household/food-snacks-candy/candy",
+        "name": "Candy",
+        "path": "online-deals/household/food-snacks-candy/candy"
     },
     {
-        "url": "https://www.riteaid.com/shop/online-deals/household/home-essentials",
-        "name": "Home Essentials",
-        "path": "online-deals/household/home-essentials"
+        "url": "https://www.riteaid.com/shop/online-deals/household/food-snacks-candy/food",
+        "name": "Food",
+        "path": "online-deals/household/food-snacks-candy/food"
     },
     {
-        "url": "https://www.riteaid.com/shop/online-deals/household/kitchen",
-        "name": "Kitchen",
-        "path": "online-deals/household/kitchen"
-    },
-    {
-        "url": "https://www.riteaid.com/shop/online-deals/household/laundry-cleaning",
-        "name": "Laundry & Cleaning",
-        "path": "online-deals/household/laundry-cleaning"
-    },
-    {
-        "url": "https://www.riteaid.com/shop/online-deals/household/paper-plastic/bath-tissue",
-        "name": "Bath Tissue",
-        "path": "online-deals/household/paper-plastic/bath-tissue"
+        "url": "https://www.riteaid.com/shop/online-deals/household/food-snacks-candy/gum",
+        "name": "Gum",
+        "path": "online-deals/household/food-snacks-candy/gum"
     }
 ]
