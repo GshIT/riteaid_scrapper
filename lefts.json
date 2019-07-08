@@ -1,0 +1,77 @@
+[
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/rite-aid-brand",
+        "name": "Rite Aid Brand",
+        "path": "online-deals/rite-aid-brand"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom",
+        "name": "Baby, Kids & Mom",
+        "path": "online-deals/baby-kids-mom"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty",
+        "name": "Beauty",
+        "path": "online-deals/beauty"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/diet-fitness",
+        "name": "Diet & Fitness",
+        "path": "online-deals/diet-fitness"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/electronics-office",
+        "name": "Electronics & Office",
+        "path": "online-deals/electronics-office"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/health-wellness-center",
+        "name": "Health & Wellness Center",
+        "path": "online-deals/health-wellness-center"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/household",
+        "name": "Household",
+        "path": "online-deals/household"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/medicine-health",
+        "name": "Medicine & Health",
+        "path": "online-deals/medicine-health"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/antiperspirants-deodorants",
+        "name": "Antiperspirants & Deodorants",
+        "path": "online-deals/personal-care/antiperspirants-deodorants"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/bath-body",
+        "name": "Bath & Body",
+        "path": "online-deals/personal-care/bath-body"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/ear-eye-care",
+        "name": "Ear & Eye Care",
+        "path": "online-deals/personal-care/ear-eye-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/feminine-care",
+        "name": "Feminine Care",
+        "path": "online-deals/personal-care/feminine-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/foot-care",
+        "name": "Foot Care",
+        "path": "online-deals/personal-care/foot-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/hair-care/appliances",
+        "name": "Appliances",
+        "path": "online-deals/personal-care/hair-care/appliances"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/personal-care/hair-care/hair-scalp-treatment",
+        "name": "Hair & Scalp Treatment",
+        "path": "online-deals/personal-care/hair-care/hair-scalp-treatment"
+    }
+]
