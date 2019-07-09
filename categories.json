@@ -5103,5 +5103,590 @@
         "url": "https://www.riteaid.com/shop/online-deals/diet-fitness/sports-nutrition-protein-drinks",
         "name": "Sports Nutrition & Protein Drinks",
         "path": "online-deals/diet-fitness/sports-nutrition-protein-drinks"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/bath-body",
+        "name": "Bath & Body",
+        "path": "online-deals/beauty/bath-body"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories",
+        "name": "Hair Care & Accessories",
+        "path": "online-deals/beauty/hair-care-accessories"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories",
+        "name": "Makeup & Accessories",
+        "path": "online-deals/beauty/makeup-accessories"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/nail-care",
+        "name": "Nail Care",
+        "path": "online-deals/beauty/nail-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/shaving-grooming",
+        "name": "Shaving & Grooming",
+        "path": "online-deals/beauty/shaving-grooming"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/skin-care",
+        "name": "Skin Care",
+        "path": "online-deals/beauty/skin-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/skin-care/acne-treatment",
+        "name": "Acne Treatment",
+        "path": "online-deals/beauty/skin-care/acne-treatment"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/skin-care/facial-cleaners-toners",
+        "name": "Facial Cleaners & Toners",
+        "path": "online-deals/beauty/skin-care/facial-cleaners-toners"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/skin-care/facial-masks-treatment",
+        "name": "Facial Masks & Treatment",
+        "path": "online-deals/beauty/skin-care/facial-masks-treatment"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/skin-care/facial-moisturizers-oils-serums",
+        "name": "Facial Moisturizers, Oils & Serums",
+        "path": "online-deals/beauty/skin-care/facial-moisturizers-oils-serums"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/skin-care/facial-scrubs-exfoliants",
+        "name": "Facial Scrubs & Exfoliants",
+        "path": "online-deals/beauty/skin-care/facial-scrubs-exfoliants"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/skin-care/lip-care",
+        "name": "Lip Care",
+        "path": "online-deals/beauty/skin-care/lip-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/skin-care/make-up-remover",
+        "name": "Make-up Remover",
+        "path": "online-deals/beauty/skin-care/make-up-remover"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/skin-care/scar-fading-treatments",
+        "name": "Scar & Fading Treatments",
+        "path": "online-deals/beauty/skin-care/scar-fading-treatments"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/skin-care/sunscreen-tanning",
+        "name": "Sunscreen & Tanning",
+        "path": "online-deals/beauty/skin-care/sunscreen-tanning"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/skin-care/supplements",
+        "name": "Supplements",
+        "path": "online-deals/beauty/skin-care/supplements"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/shaving-grooming/bleaches-waxes-depilatories",
+        "name": "Bleaches, Waxes & Depilatories",
+        "path": "online-deals/beauty/shaving-grooming/bleaches-waxes-depilatories"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/shaving-grooming/electric-shavers-trimmers",
+        "name": "Electric Shavers & Trimmers",
+        "path": "online-deals/beauty/shaving-grooming/electric-shavers-trimmers"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/shaving-grooming/razors-blades-cartridges",
+        "name": "Razors & Blades & Cartridges",
+        "path": "online-deals/beauty/shaving-grooming/razors-blades-cartridges"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/shaving-grooming/scissors-combs",
+        "name": "Scissors & Combs",
+        "path": "online-deals/beauty/shaving-grooming/scissors-combs"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/shaving-grooming/shaving-cream",
+        "name": "Shaving Cream",
+        "path": "online-deals/beauty/shaving-grooming/shaving-cream"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/nail-care/nail-polish",
+        "name": "Nail Polish",
+        "path": "online-deals/beauty/nail-care/nail-polish"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/nail-care/tools",
+        "name": "Tools",
+        "path": "online-deals/beauty/nail-care/tools"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/applicators-brushes-sponges",
+        "name": "Applicators, Brushes & Sponges",
+        "path": "online-deals/beauty/makeup-accessories/applicators-brushes-sponges"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/eye",
+        "name": "Eye",
+        "path": "online-deals/beauty/makeup-accessories/eye"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/face",
+        "name": "Face",
+        "path": "online-deals/beauty/makeup-accessories/face"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/lip",
+        "name": "Lip",
+        "path": "online-deals/beauty/makeup-accessories/lip"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/make-up-remover",
+        "name": "Make-up Remover",
+        "path": "online-deals/beauty/makeup-accessories/make-up-remover"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/mirrors-tools",
+        "name": "Mirrors & Tools",
+        "path": "online-deals/beauty/makeup-accessories/mirrors-tools"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/setting-spray",
+        "name": "Setting Spray",
+        "path": "online-deals/beauty/makeup-accessories/setting-spray"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/lip/lip-balm-treatment",
+        "name": "Lip Balm & Treatment",
+        "path": "online-deals/beauty/makeup-accessories/lip/lip-balm-treatment"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/lip/lip-gloss",
+        "name": "Lip Gloss",
+        "path": "online-deals/beauty/makeup-accessories/lip/lip-gloss"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/lip/lip-liner",
+        "name": "Lip Liner",
+        "path": "online-deals/beauty/makeup-accessories/lip/lip-liner"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/lip/lipstick",
+        "name": "Lipstick",
+        "path": "online-deals/beauty/makeup-accessories/lip/lipstick"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/face/blush",
+        "name": "Blush",
+        "path": "online-deals/beauty/makeup-accessories/face/blush"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/face/bronzer-luminizer",
+        "name": "Bronzer & Luminizer",
+        "path": "online-deals/beauty/makeup-accessories/face/bronzer-luminizer"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/face/concealer",
+        "name": "Concealer",
+        "path": "online-deals/beauty/makeup-accessories/face/concealer"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/face/foundation-makeup",
+        "name": "Foundation Makeup",
+        "path": "online-deals/beauty/makeup-accessories/face/foundation-makeup"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/face/powder-make-up",
+        "name": "Powder Make Up",
+        "path": "online-deals/beauty/makeup-accessories/face/powder-make-up"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/face/primer",
+        "name": "Primer",
+        "path": "online-deals/beauty/makeup-accessories/face/primer"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/face/tinted-moisturizer",
+        "name": "Tinted Moisturizer",
+        "path": "online-deals/beauty/makeup-accessories/face/tinted-moisturizer"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/eye/eyebrows",
+        "name": "Eyebrows",
+        "path": "online-deals/beauty/makeup-accessories/eye/eyebrows"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/eye/eyelash-curler-tweezers",
+        "name": "Eyelash Curler & Tweezers",
+        "path": "online-deals/beauty/makeup-accessories/eye/eyelash-curler-tweezers"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/eye/eyeliner",
+        "name": "Eyeliner Liquid Eyeliner & Gel Eyeliner",
+        "path": "online-deals/beauty/makeup-accessories/eye/eyeliner"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/eye/eyeshadow",
+        "name": "Eyeshadow",
+        "path": "online-deals/beauty/makeup-accessories/eye/eyeshadow"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/eye/primer",
+        "name": "Makeup Primer Face Primer & Foundation Primer",
+        "path": "online-deals/beauty/makeup-accessories/eye/primer"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/makeup-accessories/eye/mascara",
+        "name": "Mascara",
+        "path": "online-deals/beauty/makeup-accessories/eye/mascara"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/appliances",
+        "name": "Appliances",
+        "path": "online-deals/beauty/hair-care-accessories/appliances"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/hair-scalp-treatment",
+        "name": "Hair & Scalp Treatment",
+        "path": "online-deals/beauty/hair-care-accessories/hair-scalp-treatment"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/hair-color",
+        "name": "Hair Color",
+        "path": "online-deals/beauty/hair-care-accessories/hair-color"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/perms-straightners",
+        "name": "Perms & Straightners",
+        "path": "online-deals/beauty/hair-care-accessories/perms-straightners"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/shampoo-conditioner",
+        "name": "Shampoo & Conditioner",
+        "path": "online-deals/beauty/hair-care-accessories/shampoo-conditioner"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/styling-products",
+        "name": "Styling Products",
+        "path": "online-deals/beauty/hair-care-accessories/styling-products"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/styling-products/gels-mouse-sprays-serums",
+        "name": "Gels, Mouse, Sprays & Serums",
+        "path": "online-deals/beauty/hair-care-accessories/styling-products/gels-mouse-sprays-serums"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/styling-products/hair-spray",
+        "name": "Hair Spray",
+        "path": "online-deals/beauty/hair-care-accessories/styling-products/hair-spray"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/shampoo-conditioner/all-in-one",
+        "name": "All in One",
+        "path": "online-deals/beauty/hair-care-accessories/shampoo-conditioner/all-in-one"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/shampoo-conditioner/conditioner",
+        "name": "Conditioner",
+        "path": "online-deals/beauty/hair-care-accessories/shampoo-conditioner/conditioner"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/shampoo-conditioner/shampoo",
+        "name": "Shampoo",
+        "path": "online-deals/beauty/hair-care-accessories/shampoo-conditioner/shampoo"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/shampoo-conditioner/shampoo/dry-shampoo",
+        "name": "Dry Shampoo",
+        "path": "online-deals/beauty/hair-care-accessories/shampoo-conditioner/shampoo/dry-shampoo"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/appliances/clippers",
+        "name": "Clippers",
+        "path": "online-deals/beauty/hair-care-accessories/appliances/clippers"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/hair-care-accessories/appliances/straightners-flat-irons",
+        "name": "Straightners & Flat Irons",
+        "path": "online-deals/beauty/hair-care-accessories/appliances/straightners-flat-irons"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/bath-body/bath-bubbles-salts",
+        "name": "Bath Bubbles & Salts",
+        "path": "online-deals/beauty/bath-body/bath-bubbles-salts"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/bath-body/body-sprays",
+        "name": "Body Sprays",
+        "path": "online-deals/beauty/bath-body/body-sprays"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/bath-body/bodywash-soap",
+        "name": "Bodywash & Soap",
+        "path": "online-deals/beauty/bath-body/bodywash-soap"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/bath-body/cleansing-cloths-wipes",
+        "name": "Cleansing Cloths & Wipes",
+        "path": "online-deals/beauty/bath-body/cleansing-cloths-wipes"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/bath-body/exfoliants-scrubs",
+        "name": "Exfoliants & Scrubs",
+        "path": "online-deals/beauty/bath-body/exfoliants-scrubs"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/bath-body/hand-soap-sanitizers",
+        "name": "Hand Soap & Sanitizers",
+        "path": "online-deals/beauty/bath-body/hand-soap-sanitizers"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/bath-body/lotions-oils",
+        "name": "Lotions & Oils",
+        "path": "online-deals/beauty/bath-body/lotions-oils"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/beauty/bath-body/sunscreen-tanning",
+        "name": "Sunscreen & Tanning",
+        "path": "online-deals/beauty/bath-body/sunscreen-tanning"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/baby-bath-time-skin-care",
+        "name": "Baby Bath Time & Skin Care",
+        "path": "online-deals/baby-kids-mom/baby-bath-time-skin-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/back-to-school-supplies-accessories",
+        "name": "Back To School Supplies & Accessories",
+        "path": "online-deals/baby-kids-mom/back-to-school-supplies-accessories"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/diapers-wipes",
+        "name": "Diapers & Wipes",
+        "path": "online-deals/baby-kids-mom/diapers-wipes"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/family-planning",
+        "name": "Family Planning",
+        "path": "online-deals/baby-kids-mom/family-planning"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/feeding-nursing",
+        "name": "Feeding & Nursing",
+        "path": "online-deals/baby-kids-mom/feeding-nursing"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health",
+        "name": "Medicine & Health",
+        "path": "online-deals/baby-kids-mom/medicine-health"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/mom-maternity",
+        "name": "Mom & Maternity",
+        "path": "online-deals/baby-kids-mom/mom-maternity"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/oral-care",
+        "name": "Oral Care",
+        "path": "online-deals/baby-kids-mom/oral-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/mom-maternity/prenatal-vitamins",
+        "name": "Prenatal Vitamins",
+        "path": "online-deals/baby-kids-mom/mom-maternity/prenatal-vitamins"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/digestive-health-nausea",
+        "name": "Digestive Health & Nausea",
+        "path": "online-deals/baby-kids-mom/medicine-health/digestive-health-nausea"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/ear-eye-care",
+        "name": "Ear & Eye Care",
+        "path": "online-deals/baby-kids-mom/medicine-health/ear-eye-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/first-aid",
+        "name": "First Aid",
+        "path": "online-deals/baby-kids-mom/medicine-health/first-aid"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/pain-fever-relief",
+        "name": "Pain & Fever Relief",
+        "path": "online-deals/baby-kids-mom/medicine-health/pain-fever-relief"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/pain-fever-relief/asprin",
+        "name": "Asprin",
+        "path": "online-deals/baby-kids-mom/medicine-health/pain-fever-relief/asprin"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/pain-fever-relief/non-asprin",
+        "name": "Non-Asprin",
+        "path": "online-deals/baby-kids-mom/medicine-health/pain-fever-relief/non-asprin"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/first-aid/antibiotics-antiseptics",
+        "name": "Antibiotics & Antiseptics",
+        "path": "online-deals/baby-kids-mom/medicine-health/first-aid/antibiotics-antiseptics"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/first-aid/antifungal",
+        "name": "Antifungal",
+        "path": "online-deals/baby-kids-mom/medicine-health/first-aid/antifungal"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/first-aid/bandages-braces",
+        "name": "Bandages & Braces",
+        "path": "online-deals/baby-kids-mom/medicine-health/first-aid/bandages-braces"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/first-aid/tape-guaze-pads",
+        "name": "Tape, Guaze & Pads",
+        "path": "online-deals/baby-kids-mom/medicine-health/first-aid/tape-guaze-pads"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/first-aid/wart-remover",
+        "name": "Wart Remover",
+        "path": "online-deals/baby-kids-mom/medicine-health/first-aid/wart-remover"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/ear-eye-care/eye-care",
+        "name": "Eye Care",
+        "path": "online-deals/baby-kids-mom/medicine-health/ear-eye-care/eye-care"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/ear-eye-care/eye-care/eye-drops",
+        "name": "Eye Drops",
+        "path": "online-deals/baby-kids-mom/medicine-health/ear-eye-care/eye-care/eye-drops"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/antacid",
+        "name": "Antacid",
+        "path": "online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/antacid"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/anti-diarrhea",
+        "name": "Anti-Diarrhea",
+        "path": "online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/anti-diarrhea"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/digestive-supplements-prebiotics-probiotics",
+        "name": "Digestive Supplements, Prebiotics & Probiotics",
+        "path": "online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/digestive-supplements-prebiotics-probiotics"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/fiber-laxatives-stool-softeners",
+        "name": "Fiber, Laxatives & Stool Softeners",
+        "path": "online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/fiber-laxatives-stool-softeners"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/gas-relief",
+        "name": "Gas Relief",
+        "path": "online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/gas-relief"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/digestive-supplements-prebiotics-probiotics/digestive-supplements",
+        "name": "Digestive Supplements",
+        "path": "online-deals/baby-kids-mom/medicine-health/digestive-health-nausea/digestive-supplements-prebiotics-probiotics/digestive-supplements"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/feeding-nursing/food-drinks",
+        "name": "Baby Food & Drinks",
+        "path": "online-deals/baby-kids-mom/feeding-nursing/food-drinks"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/feeding-nursing/baby-formula",
+        "name": "Baby Formula ",
+        "path": "online-deals/baby-kids-mom/feeding-nursing/baby-formula"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/family-planning/fertility-ovulation",
+        "name": "Fertility & Ovulation",
+        "path": "online-deals/baby-kids-mom/family-planning/fertility-ovulation"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/family-planning/pregnancy-test",
+        "name": "Pregnancy Test",
+        "path": "online-deals/baby-kids-mom/family-planning/pregnancy-test"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/family-planning/fertility-ovulation/tests-kits",
+        "name": "Tests & Kits",
+        "path": "online-deals/baby-kids-mom/family-planning/fertility-ovulation/tests-kits"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/diapers-wipes/diaper-rash-treatment",
+        "name": "Diaper Rash Treatment",
+        "path": "online-deals/baby-kids-mom/diapers-wipes/diaper-rash-treatment"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/diapers-wipes/diapers",
+        "name": "Diapers",
+        "path": "online-deals/baby-kids-mom/diapers-wipes/diapers"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/diapers-wipes/lotions-oils",
+        "name": "Lotions & Oils",
+        "path": "online-deals/baby-kids-mom/diapers-wipes/lotions-oils"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/diapers-wipes/wipes",
+        "name": "Wipes",
+        "path": "online-deals/baby-kids-mom/diapers-wipes/wipes"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/back-to-school-supplies-accessories/crayons-markers-highlighters",
+        "name": "Crayons, Markers & Highlighters",
+        "path": "online-deals/baby-kids-mom/back-to-school-supplies-accessories/crayons-markers-highlighters"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/back-to-school-supplies-accessories/index-cards-cases",
+        "name": "Index Cards & Cases",
+        "path": "online-deals/baby-kids-mom/back-to-school-supplies-accessories/index-cards-cases"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/back-to-school-supplies-accessories/more-supplies",
+        "name": "More Supplies",
+        "path": "online-deals/baby-kids-mom/back-to-school-supplies-accessories/more-supplies"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/back-to-school-supplies-accessories/pencils-pens",
+        "name": "Pencils & Pens",
+        "path": "online-deals/baby-kids-mom/back-to-school-supplies-accessories/pencils-pens"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/back-to-school-supplies-accessories/pencils-pens/pencils",
+        "name": "Pencils",
+        "path": "online-deals/baby-kids-mom/back-to-school-supplies-accessories/pencils-pens/pencils"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/back-to-school-supplies-accessories/pencils-pens/pens",
+        "name": "Pens",
+        "path": "online-deals/baby-kids-mom/back-to-school-supplies-accessories/pencils-pens/pens"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/baby-bath-time-skin-care/bodywash-soap",
+        "name": "Bodywash & Soap",
+        "path": "online-deals/baby-kids-mom/baby-bath-time-skin-care/bodywash-soap"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/baby-bath-time-skin-care/bubble-bath",
+        "name": "Bubble Bath",
+        "path": "online-deals/baby-kids-mom/baby-bath-time-skin-care/bubble-bath"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/baby-bath-time-skin-care/lotions-oils",
+        "name": "Lotions & Oils",
+        "path": "online-deals/baby-kids-mom/baby-bath-time-skin-care/lotions-oils"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/baby-bath-time-skin-care/shampoo-conditioner-detanglers",
+        "name": "Shampoo, Conditioner & Detanglers",
+        "path": "online-deals/baby-kids-mom/baby-bath-time-skin-care/shampoo-conditioner-detanglers"
+    },
+    {
+        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom/baby-bath-time-skin-care/sunscreen",
+        "name": "Sunscreen",
+        "path": "online-deals/baby-kids-mom/baby-bath-time-skin-care/sunscreen"
     }
 ]

@@ -3,15 +3,5 @@
         "url": "https://www.riteaid.com/shop/online-deals/rite-aid-brand",
         "name": "Rite Aid Brand",
         "path": "online-deals/rite-aid-brand"
-    },
-    {
-        "url": "https://www.riteaid.com/shop/online-deals/baby-kids-mom",
-        "name": "Baby, Kids & Mom",
-        "path": "online-deals/baby-kids-mom"
-    },
-    {
-        "url": "https://www.riteaid.com/shop/online-deals/beauty",
-        "name": "Beauty",
-        "path": "online-deals/beauty"
     }
 ]
