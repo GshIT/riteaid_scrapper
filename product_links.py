@@ -153,3 +153,72 @@ def get_product_links():
 		write_file('state.json', {"state": 1})
 
 	return products
+
+def product_soup(html):
+	product = {}
+	soup = BeautifulSoup(html, 'html.parser')
+
+	hec = soup.select_one('th:contains("Height")+td') #height value
+	wic = soup.select_one('th:contains("Width")+td')  #width value
+	dec = soup.select_one('th:contains("Depth")+td') #depth value
+	wec = soup.select_one('th:contains("Product Weight")+td') #weight value
+	pahec = soup.select_one('th:contains("PackageHeight")+td') #PackageHeight value
+	pawic = soup.select_one('th:contains("PackageWidth")+td')  #PackageWidth value
+	padec = soup.select_one('th:contains("PackageDepth")+td') #PackageDepth value
+
+	height = hec.text if hec else None
+	width = wic.text if wic else None
+	depth = dec.text if dec else None
+	weight = wec.text if wec else None
+	package_height = pahec.text if pahec else None
+	package_width = pawic.text if pawic else None
+	package_depth = padec.text if padec else None
+
+	product['weight'] = weight
+	product['volume'] = f"{width}x{depth}x{height}"
+	product['package_volume'] = f"{package_width}x{package_depth}x{package_height}"
+
+	skuc = soup.select_one('meta[itemprop="sku"]') #sku content
+	pricec = soup.select_one('span.price[itemprop="price"]') #price value
+	imagesc = soup.select('div.images img')  #images src
+	namec = soup.select_one('div.product-name span[itemprop="name"]')  #name value
+
+	product['sku'] = skuc.get('content')
+	product['price'] = pricec.text if pricec else None
+	product['name'] = namec.text if namec else None
+	product['images'] = [imagec.get('src') for imagec in imagesc] 
+
+	return product
+ 
+
+
+@retry('products.json')
+def product_scrapper():
+	products = [] if not read_file('leftproducts.json') else read_file('leftproducts.json')
+	fproducts = [] if not read_file('products.json') else read_file('products.json')
+
+	while products:
+		product = products[-1]
+		res = rq.get(product.get('product_url'))
+		print(f"Scrapping: {product.get('product_url')}")
+
+		if not res.ok: raise Exception("Products Url Failed")
+
+		products.pop()
+		write_file('leftproducts.json', products)
+
+		match = re.findall(r'([^\/]*)', product.get('category'))
+		match = [mat for mat in match if mat != '']
+		_type = match[0] if match else None
+		subtype = match[-1] if match else None
+		mtype = product.get('category')
+
+		temp = product_soup(res.text)
+		temp['type'] = _type
+		temp['subtype'] = subtype
+		temp['mtype'] = mtype
+		fproducts.append(temp)
+		write_file('products.json', fproducts)
+
+	return products
+
