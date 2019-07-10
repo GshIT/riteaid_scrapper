@@ -165,7 +165,9 @@ def product_soup(html):
 	pahec = soup.select_one('th:contains("PackageHeight")+td') #PackageHeight value
 	pawic = soup.select_one('th:contains("PackageWidth")+td')  #PackageWidth value
 	padec = soup.select_one('th:contains("PackageDepth")+td') #PackageDepth value
+	pric = soup.select_one('th:contains("Unit Price")+td') #price value
 
+	price = pric.text if pric else None
 	height = hec.text if hec else None
 	width = wic.text if wic else None
 	depth = dec.text if dec else None
@@ -184,7 +186,7 @@ def product_soup(html):
 	namec = soup.select_one('div.product-name span[itemprop="name"]')  #name value
 
 	product['sku'] = skuc.get('content')
-	product['price'] = pricec.text if pricec else None
+	product['price'] = pricec.text if pricec else price
 	product['name'] = namec.text if namec else None
 	product['images'] = [imagec.get('src') for imagec in imagesc] 
 
