@@ -204,23 +204,26 @@ def product_scrapper():
 		res = rq.get(product.get('product_url'))
 		print(f"Scrapping: {product.get('product_url')}")
 
-		if not res.ok: raise Exception("Products Url Failed")
+		if not res.ok and res.status_code != 404: raise Exception("Products Url Failed")
 
 		products.pop()
 		write_file('leftproducts.json', products)
 
-		match = re.findall(r'([^\/]*)', product.get('category'))
-		match = [mat for mat in match if mat != '']
-		_type = match[0] if match else None
-		subtype = match[-1] if match else None
-		mtype = product.get('category')
+		if res.status_code != 404:
+			match = re.findall(r'([^\/]*)', product.get('category'))
+			match = [mat for mat in match if mat != '']
+			_type = match[0] if match else None
+			subtype = match[-1] if match else None
+			mtype = product.get('category')
 
-		temp = product_soup(res.text)
-		temp['type'] = _type
-		temp['subtype'] = subtype
-		temp['mtype'] = mtype
-		fproducts.append(temp)
-		write_file('products.json', fproducts)
+			temp = product_soup(res.text)
+			temp['type'] = _type
+			temp['subtype'] = subtype
+			temp['mtype'] = mtype
+			fproducts.append(temp)
+			write_file('products.json', fproducts)
+			print('Saved!')
+		else: print("The product doesn't exist!")
 
 	return products
 
