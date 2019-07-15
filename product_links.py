@@ -189,7 +189,8 @@ def product_soup(html):
 	product['price'] = pricec.text if pricec else price
 	product['name'] = namec.text if namec else None
 	product['images'] = [imagec.get('src') for imagec in imagesc] 
-
+	product['UPC'] = product['images'][0].split('/')[-1].split('.')[0] if product['images'] else None
+ 
 	return product
  
 
@@ -201,8 +202,9 @@ def product_scrapper():
 
 	while products:
 		product = products[-1]
-		res = rq.get(product.get('product_url'))
-		print(f"Scrapping: {product.get('product_url')}")
+		url = product.get('product_url')
+		res = rq.get(url)
+		print(f"Scrapping: {url}")
 
 		if not res.ok and res.status_code != 404: raise Exception("Products Url Failed")
 
@@ -220,6 +222,7 @@ def product_scrapper():
 			temp['type'] = _type
 			temp['subtype'] = subtype
 			temp['mtype'] = mtype
+			temp['url'] = url
 			fproducts.append(temp)
 			write_file('products.json', fproducts)
 			print('Saved!')
